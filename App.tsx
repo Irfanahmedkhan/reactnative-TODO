@@ -65,7 +65,7 @@ const [counter, setCounter] = useState(4)
         <Body
           style={{ justifyContent: "center", alignItems: "center" }}
         >
-          <Title>TODO APP</Title>
+          <Title>TODO APP.</Title>
         </Body>
       </Header>
       <Content>
